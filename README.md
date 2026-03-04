@@ -66,7 +66,7 @@ The project is structured into four main layers:
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 -  Real-time QoS monitoring  
 -  Autonomous decision-making  
@@ -99,7 +99,7 @@ The project is structured into four main layers:
 
 ##  Getting Started
 
-### 1️ Clone the repository
+### 1️. Clone the repository
 
 ```bash
 git clone https://github.com/EmnaMbarki94/Esprit-PIDS-4DS7-2026-QosBuddy.git
