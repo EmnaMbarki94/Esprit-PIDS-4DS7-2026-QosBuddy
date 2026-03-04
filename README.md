@@ -1,2 +1,4 @@
 # Esprit-PIDS-4DS7-2026-QosBuddy
 This project was developed as part of the PIDS– 4rd Year Engineering Program at Esprit School of Engineering (Academic Year 2025–2026).
+# QoS Buddy
+** Autonomous Agents for Intelligent QoS Optimization ** 
