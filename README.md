@@ -1,6 +1,6 @@
 # Esprit-PIDS-4DS7-2026-QosBuddy
 This project was developed as part of the PIDS– 4rd Year Engineering Program at Esprit School of Engineering (Academic Year 2025–2026).
-# 🚀 QoS Buddy  
+# QoS Buddy  
 ### Autonomous Agents for Intelligent QoS Optimization  
 
 ---
@@ -43,7 +43,7 @@ The system ensures network stability, performance efficiency, and enhanced user 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The project is structured into four main layers:
 
@@ -68,16 +68,16 @@ The project is structured into four main layers:
 
 ## 📊 Key Features
 
-- ✅ Real-time QoS monitoring  
-- ✅ Autonomous decision-making  
-- ✅ Intelligent KPI analysis  
-- ✅ Dynamic performance optimization  
-- ✅ Scalable architecture  
-- ✅ SLA-aware management  
+-  Real-time QoS monitoring  
+-  Autonomous decision-making  
+-  Intelligent KPI analysis  
+-  Dynamic performance optimization  
+-  Scalable architecture  
+-  SLA-aware management  
 
 ---
 
-## 🧠 Core Concepts
+## Core Concepts
 
 - Quality of Service (QoS)  
 - Network Optimization  
@@ -88,7 +88,7 @@ The project is structured into four main layers:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - REST APIs  
@@ -97,9 +97,9 @@ The project is structured into four main layers:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/EmnaMbarki94/Esprit-PIDS-4DS7-2026-QosBuddy.git
