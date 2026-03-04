@@ -105,5 +105,5 @@ The project is structured into four main layers:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/qos-buddy.git
+git clone https://github.com/EmnaMbarki94/Esprit-PIDS-4DS7-2026-QosBuddy.git
 cd qos-buddy
