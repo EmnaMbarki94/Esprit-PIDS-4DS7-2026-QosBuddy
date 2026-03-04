@@ -90,13 +90,10 @@ The project is structured into four main layers:
 
 ## 🛠️ Technologies Used
 
-*(Update this section according to your implementation)*
-
-- Java / Python  
-- Spring Boot / REST APIs  
+- Python  
+- REST APIs  
 - Machine Learning models  
-- Network simulation tools  
-- Docker (optional)  
+- Network simulation tools    
 
 ---
 
